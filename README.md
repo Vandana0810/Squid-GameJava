@@ -20,3 +20,7 @@ Java Swing Components We Will Use In This Project:
 - JPanel
 - JLabel.
 - JButton.
+
+HOW IT LOOKS:
+
+![1](https://user-images.githubusercontent.com/93055706/143318626-7bf5ede6-e00d-4267-89c8-44fc186e038e.PNG)
